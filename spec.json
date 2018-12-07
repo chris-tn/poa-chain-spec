@@ -11,7 +11,7 @@
           "multi": {
             "0": {
               "safeContract": "0x8bf38d4764929064f2d4d3a56520a76ab3df415b"
-            },
+            }
           }
         },
         "blockRewardContractAddress": "0x4d0153D434384128D17243409e02fca1B3EE21D6",
